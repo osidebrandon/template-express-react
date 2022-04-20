@@ -3,6 +3,8 @@
 
 Must <i>npm install</i> in both <i>"./"</i> and <i>"./react-app"</i>.
 
+These commands are ran from <i>"./"</i>
+
 ## Development
     [1] Server      npm run server-dev
                     http://localhost:3001
