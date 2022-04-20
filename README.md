@@ -5,7 +5,7 @@ Must <i>npm install</i> in both <i>"./"</i> and <i>"./react-app"</i>.
 
 These commands are ran from <i>"./"</i>
 
-## TESTING!!!
+## Development
     [1] Server      npm run server-dev
                     http://localhost:3001
                     http://localhost:3001/api
