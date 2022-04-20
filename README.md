@@ -1,6 +1,8 @@
 
 # Notes
 
+Must <i>npm install</i> in both <i>"./"</i> and <i>"./react-app"</i>.
+
 ## Development
     [1] Server      npm run server-dev
                     http://localhost:3001
